@@ -20,7 +20,7 @@ const Navbar = () => {
     { name: "Home", to: "/" },
     { name: "About Us", to: "/about" },
     { name: "SRC", to: "/src" },
-    { name: "Event", to: "/event" },
+    { name: "Event", to: "/events" },
     { name: "Our Initiative", to: "/initiative" },
     { name: "Contribute", to: "/contribute" },
   ];
