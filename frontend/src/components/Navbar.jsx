@@ -20,7 +20,7 @@ const Navbar = () => {
     { name: "Home", to: "/" },
     { name: "About Us", to: "/about" },
     { name: "SRC", to: "/src" },
-    { name: "Event", to: "/events" },
+    { name: "Events", to: "/event" },
     { name: "Our Initiative", to: "/initiative" },
     { name: "Contribute", to: "/contribute" },
   ];
@@ -98,7 +98,7 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       {isOpen && (
-        <div className="md:hidden bg-white shadow-md absolute top-16 left-0 w-full px-4 py-6">
+        <div className="md:hidden bg-white shadow-md absolute top-16 left-0 w-full px-4 py-6 z-10">
           <div className="flex flex-col space-y-4">
             {navItems.map((item) => (
               <Link
