@@ -5,7 +5,7 @@ const Initiative = () => {
     {
       id: 1,
       title: "6 Strategies to Find Your Conference Keynote and Other Speakers",
-      image: "/src/assets/img1.jpeg",
+      image: "/img1.jpeg",
       description: "Sekarang, kamu bisa produksi tiket fisik untuk eventmu bersama Bostiketbos. Hanya perlu mengikuti beberapa langkah mudah.",
       date: "12 Mar",
       author: "Jhon Doe"
@@ -13,7 +13,7 @@ const Initiative = () => {
     {
       id: 2,
       title: "How Successfully Used Paid Marketing to Drive Incremental Ticket Sales",
-      image: "/src/assets/img2.jpeg",
+      image: "/img2.jpeg",
       description: "Sekarang, kamu bisa produksi tiket fisik untuk eventmu bersama Bostiketbos. Hanya perlu mengikuti beberapa langkah mudah.",
       date: "12 Mar",
       author: "Jhon Doe"
@@ -21,7 +21,7 @@ const Initiative = () => {
     {
       id: 3,
       title: "Introducing Workspaces: Work smarter, not harder with new navigation",
-      image: "/src/assets/img3.jpeg",
+      image: "/img3.jpeg",
       description: "Sekarang, kamu bisa produksi tiket fisik untuk eventmu bersama Bostiketbos. Hanya perlu mengikuti beberapa langkah mudah.",
       date: "12 Mar",
       author: "Jhon Doe"

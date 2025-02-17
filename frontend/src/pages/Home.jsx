@@ -53,19 +53,19 @@ const Home = () => {
     const cards = [
         {
             id: 1,
-            image: "/src/assets/img1.png", // Update with your image path
+            image: "/img1.png", // Update with your image path
             text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             bgColor: "bg-gray-100"
         },
         {
             id: 2,
-            image: "/src/assets/img2.png", // Update with your image path
+            image: "/img2.png", // Update with your image path
             text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             bgColor: "bg-teal-50"
         },
         {
             id: 3,
-            image: "/src/assets/img3.png", // Update with your image path
+            image: "/img3.png", // Update with your image path
             text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             bgColor: "bg-gray-100"
         }
@@ -101,7 +101,7 @@ const Home = () => {
             <div className="relative w-full h-screen">
                 <div className="absolute inset-0">
                     <img
-                        src="/src/assets/BG image.png"
+                        src="/BG image.png"
                         alt="Children with special needs"
                         className="w-full h-full object-cover"
                     />
@@ -150,7 +150,7 @@ const Home = () => {
                     </div>
                     <div className="relative h-64 md:h-full min-h-[400px]">
                         <img
-                            src="/src/assets/aboutus.png"
+                            src="/aboutus.png"
                             alt="Children walking together"
                             className="w-full h-full object-cover rounded-lg shadow-lg"
                         />
@@ -180,7 +180,7 @@ const Home = () => {
                         <div className="lg:w-1/2">
                             <div className="rounded-2xl overflow-hidden shadow-xl">
                                 <img
-                                    src="/src/assets/program.png"
+                                    src="/program.png"
                                     alt="Children and teacher in classroom"
                                     className="w-full h-full object-cover"
                                 />

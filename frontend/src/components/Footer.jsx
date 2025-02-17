@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-gray-500 text-white py-12 px-6">
       <div className="max-w-6xl mx-auto">
         <div className="mb-8">
-          <img src="/src/assets/logo.png"
+          <img src="/logo.png"
             alt="Reiwametta Foundation"
             className='w-44 h-full' />
         </div>

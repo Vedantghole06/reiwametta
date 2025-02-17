@@ -41,7 +41,7 @@ const Src = () => {
                 {/* Right Column - Image */}
                 <div className="md:pl-8">
                     <img
-                        src="/src/assets/src-img.jpeg"
+                        src="/src-img.jpeg"
                         alt="Happy children learning"
                         className="rounded-2xl w-full h-full object-cover"
                     />

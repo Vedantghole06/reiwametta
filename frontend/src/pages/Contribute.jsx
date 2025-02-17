@@ -47,7 +47,7 @@ const Contribute = () => {
 
                         <div className="relative flex-1 flex justify-center">
                             <img
-                                src="/src/assets/donate-img.png"
+                                src="/donate-img.png"
                                 alt="Donation box being held"
                                 className="rounded-lg object-cover w-96 h-full shadow-lg"
                             />
@@ -83,7 +83,7 @@ const Contribute = () => {
                         </h2>
                         <div className="w-48 h-48 bg-white p-2 border border-gray-200 rounded-lg">
                             <img
-                                src="/src/assets/qr-code.png"
+                                src="/qr-code.png"
                                 alt="QR Code"
                                 className="w-full h-full"
                             />
@@ -205,7 +205,7 @@ const Contribute = () => {
                 {/* Success Story Section */}
                 <div className="relative rounded-lg overflow-hidden">
                     <img
-                        src="/src/assets/bg-img.png"
+                        src="/bg-img.png"
                         alt="Students"
                         className="w-full h-96 object-cover"
                     />

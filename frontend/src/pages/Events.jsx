@@ -10,7 +10,7 @@ const Events = () => {
       },
       title: "National Conference on Indian Higher Education",
       description: "We'll get you directly seated and inside for you to enjoy the show.",
-      image: "/src/assets/events-img1.png",
+      image: "/events-img1.png",
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ const Events = () => {
       },
       title: "National Conference Programme - SDG Knowledge Hub",
       description: "Directly seated and inside for you to enjoy the show.",
-      image: "/src/assets/events-img2.png",
+      image: "/events-img2.png",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const Events = () => {
       },
       title: "6th National Conference on Tobacco or Health | Web Insights",
       description: "6th National Conference on Tobacco or Health | Web Insights",
-      image: "/src/assets/events-img3.png",
+      image: "/events-img3.png",
     }
   ];
 

@@ -61,7 +61,7 @@ const About = () => {
     {
       name: "Rahul Sonpimple",
       title: "Founder & President",
-      imageUrl: "/src/assets/rahul-img.png",
+      imageUrl: "/rahul-img.png",
       social: {
         facebook: "#",
         twitter: "#",
@@ -71,7 +71,7 @@ const About = () => {
     {
       name: "Vishal Sarpe",
       title: "Founder & Vice President",
-      imageUrl: "/src/assets/vishal-img.png",
+      imageUrl: "/vishal-img.png",
       social: {
         facebook: "#",
         twitter: "#",
@@ -207,7 +207,7 @@ const About = () => {
           <div className="relative rounded-lg overflow-hidden mb-8">
             {/* Image Placeholder */}
             <img
-              src="/src/assets/about-img.png"
+              src="/about-img.png"
               alt="People working together"
               className="w-full h-[300px] md:h-[400px] object-cover"
             />

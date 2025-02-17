@@ -40,7 +40,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <img
-              src="/src/assets/logo.png"
+              src="/logo.png"
               alt="Reiwa Meta Logo"
               className="h-8 w-auto mr-2"
             />
