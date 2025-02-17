@@ -101,7 +101,7 @@ const Home = () => {
             <div className="relative w-full h-screen">
                 <div className="absolute inset-0">
                     <img
-                        src="/BG image.png"
+                        src="/hero-bg-img.png"
                         alt="Children with special needs"
                         className="w-full h-full object-cover"
                     />
